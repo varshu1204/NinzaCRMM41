@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-03T10:52:19 IST" name="Suite" finished-at="2025-12-03T10:52:19 IST" duration-ms="61">
+    <groups>
+      <group name="regression">
+        <method signature="SampleTest.Virat()[pri:0, instance:Demo1.SampleTest@72967906]" name="Virat" class="Demo1.SampleTest"/>
+      </group> <!-- regression -->
+    </groups>
+    <test started-at="2025-12-03T10:52:19 IST" name="Test" finished-at="2025-12-03T10:52:19 IST" duration-ms="61">
+      <class name="Demo1.SampleTest">
+        <test-method signature="Virat()[pri:0, instance:Demo1.SampleTest@72967906]" started-at="2025-12-03T10:52:19 IST" name="Virat" finished-at="2025-12-03T10:52:19 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Virat -->
+      </class> <!-- Demo1.SampleTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
