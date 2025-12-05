@@ -9,5 +9,6 @@ public class DemoTest {
 	{
 		System.out.println("dhoni");
 		System.out.println("Rohit");
+		System.out.println("Sachin");
 	}
 }
