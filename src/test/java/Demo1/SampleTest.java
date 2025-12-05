@@ -8,5 +8,6 @@ public class SampleTest {
 	public void Virat()
 	{
 		System.out.println("Virat");
+		System.out.println("Jaddu");
 	}
 }
